@@ -21,7 +21,7 @@ This is a second test from my local computer.
 2. Of
 3. Cool
 4. Stuff
-..* Another list
+⋅⋅* Another list
 1. One
 2. Two
 3. Three
