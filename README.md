@@ -16,3 +16,12 @@ This is a second test from my local computer.
 ---
 # A COOL VIDEO I FOUND!!!
 [![A VIDEO](http://img.youtube.com/vi/njX2bu-_Vw4/0.jpg)](http://www.youtube.com/watch?v=njX2bu-_Vw4)
+---
+1. List
+2. Of
+3. Cool
+4. Stuff
+..* Another list
+1. One
+2. Two
+3. Three
