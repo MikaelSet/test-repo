@@ -22,4 +22,4 @@ This is a second test from my local computer.
 3. Cool
 4. Stuff
 ***
-Also heres a footnote[^1]
+**Good bye!**
