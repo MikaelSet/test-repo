@@ -23,3 +23,30 @@ This is a second test from my local computer.
 4. Stuff
 ***
 **Good bye!**
+---
+<img src="https://tenor.com/view/github-beloved-my-gif-26002814.gif" />
+
+- Lista 1
+- Lista 1
+   - Lista 1
+   - Lista 1
+- Lista 1
+
+
+1. Lista 2
+2. Lista 2
+3. Lista 2
+
+
++ Lista 3
++ Lista 3 
++ Lista 3
+
+```<!DOCTYPE html>```
+
+> Sisennettyä tekstiä
+>
+>> Lisää sisennettyä tekstiä
+>>
+>>> Vielä vähän lisää sisennettyä tekstiä
+
